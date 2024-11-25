@@ -63,6 +63,7 @@
             {"resourceType":"GMOverriddenProperty","resourceVersion":"1.0","name":"","propertyId":{"name":"destination_room","path":"objects/obj_cave/obj_cave.yy",},"objectId":{"name":"obj_cave","path":"objects/obj_cave/obj_cave.yy",},"value":"main_area",},
             {"resourceType":"GMOverriddenProperty","resourceVersion":"1.0","name":"","propertyId":{"name":"destination_enter","path":"objects/obj_cave/obj_cave.yy",},"objectId":{"name":"obj_cave","path":"objects/obj_cave/obj_cave.yy",},"value":"main_enter1",},
           ],"isDnd":false,"objectId":{"name":"obj_cave","path":"objects/obj_cave/obj_cave.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":688.0,"y":736.0,},
+        {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_388945F","properties":[],"isDnd":false,"objectId":{"name":"obj_solid_parent","path":"objects/obj_solid_parent/obj_solid_parent.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":752.0,"y":496.0,},
       ],"visible":true,"depth":0,"userdefinedDepth":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritVisibility":true,"inheritSubLayers":true,"gridX":16,"gridY":16,"layers":[],"hierarchyFrozen":false,"effectEnabled":true,"effectType":null,"properties":[],},
     {"resourceType":"GMRTileLayer","resourceVersion":"1.1","name":"raised_tiles","tilesetId":{"name":"cave_tiles","path":"tilesets/cave_tiles/cave_tiles.yy",},"x":0,"y":0,"tiles":{"TileDataFormat":1,"SerialiseWidth":86,"SerialiseHeight":48,"TileCompressedData":[
 -41,10,1,11,-3,10,1,12,-4,10,4,11,12,10,11,-69,10,2,12,32,-12,5,2,31,11,-67,10,5,11,10,32,5,6,-12,30,3,4,5,31,-67,10,4,11,9,30,29,-12,25,3,28,30,3,-63,10,1,12,-4,10,3,9,25,27,-12,0,4,26,25,3,11,-61,10,-2,11,1,32,-3,5,1,6,-16,0,4,4,5,31,12,
@@ -139,6 +140,7 @@
     {"name":"inst_4344BBCD","path":"rooms/underwater_cave/underwater_cave.yy",},
     {"name":"inst_2534E891","path":"rooms/underwater_cave/underwater_cave.yy",},
     {"name":"inst_797ADCE8","path":"rooms/underwater_cave/underwater_cave.yy",},
+    {"name":"inst_388945F","path":"rooms/underwater_cave/underwater_cave.yy",},
   ],
   "inheritCreationOrder": false,
   "sequenceId": null,

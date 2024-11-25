@@ -62,6 +62,7 @@
             {"resourceType":"GMOverriddenProperty","resourceVersion":"1.0","name":"","propertyId":{"name":"destination_room","path":"objects/obj_entrance/obj_entrance.yy",},"objectId":{"name":"obj_entrance","path":"objects/obj_entrance/obj_entrance.yy",},"value":"main_area",},
           ],"isDnd":false,"objectId":{"name":"obj_entrance","path":"objects/obj_entrance/obj_entrance.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":720.0,"y":80.0,},
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_528D72E3","properties":[],"isDnd":false,"objectId":{"name":"obj_end_entrance","path":"objects/obj_end_entrance/obj_end_entrance.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":0.0,"y":704.0,},
+        {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_3F1E51F2","properties":[],"isDnd":false,"objectId":{"name":"obj_solid_parent","path":"objects/obj_solid_parent/obj_solid_parent.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":800.0,"y":400.0,},
       ],"visible":true,"depth":0,"userdefinedDepth":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritVisibility":true,"inheritSubLayers":true,"gridX":16,"gridY":16,"layers":[],"hierarchyFrozen":false,"effectEnabled":true,"effectType":null,"properties":[],},
     {"resourceType":"GMRTileLayer","resourceVersion":"1.1","name":"cave_entrance","tilesetId":{"name":"cave_tiles","path":"tilesets/cave_tiles/cave_tiles.yy",},"x":0,"y":0,"tiles":{"TileDataFormat":1,"SerialiseWidth":86,"SerialiseHeight":48,"TileCompressedData":[
 -44,-2147483648,4,62,63,66,67,-80,-2147483648,7,61,35,36,37,38,39,40,-79,-2147483648,8,47,41,57,58,59,60,42,51,-78,-2147483648,8,48,65,50,69,68,54,64,52,-78,-2147483648,8,49,43,44,55,56,45,46,53,-3734,-2147483648,],},"visible":true,"depth":100,"userdefinedDepth":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritVisibility":true,"inheritSubLayers":true,"gridX":32,"gridY":32,"layers":[],"hierarchyFrozen":false,"effectEnabled":true,"effectType":null,"properties":[],},
@@ -145,6 +146,7 @@
     {"name":"inst_233B48FE","path":"rooms/main_area/main_area.yy",},
     {"name":"main_enter1","path":"rooms/main_area/main_area.yy",},
     {"name":"inst_528D72E3","path":"rooms/main_area/main_area.yy",},
+    {"name":"inst_3F1E51F2","path":"rooms/main_area/main_area.yy",},
   ],
   "inheritCreationOrder": false,
   "sequenceId": null,

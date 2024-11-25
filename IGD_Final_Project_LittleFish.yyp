@@ -19,6 +19,7 @@
     {"id":{"name":"spr_bass_neutral","path":"sprites/spr_bass_neutral/spr_bass_neutral.yy",},"order":10,},
     {"id":{"name":"spr_tuna_eating_right","path":"sprites/spr_tuna_eating_right/spr_tuna_eating_right.yy",},"order":16,},
     {"id":{"name":"obj_camera","path":"objects/obj_camera/obj_camera.yy",},"order":3,},
+    {"id":{"name":"obj_solid_parent","path":"objects/obj_solid_parent/obj_solid_parent.yy",},"order":15,},
     {"id":{"name":"obj_wall","path":"objects/obj_wall/obj_wall.yy",},"order":4,},
     {"id":{"name":"obj_start_screen","path":"objects/obj_start_screen/obj_start_screen.yy",},"order":1,},
     {"id":{"name":"obj_dialogue_child","path":"objects/obj_dialogue_child/obj_dialogue_child.yy",},"order":7,},
