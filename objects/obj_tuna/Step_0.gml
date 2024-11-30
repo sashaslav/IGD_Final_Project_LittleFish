@@ -32,6 +32,13 @@ x + sprite_width < room_width &&
 	sprite_index = spr_tuna_right;
 }
 
+//SPRINT CONTROL
+if (keyboard_check_pressed(vk_rshift)) {
+	tuna_speed = 3;
+} else if (keyboard_check_released(vk_rshift)) {
+	tuna_speed = 2;
+}
+
 //goes to end screen if everything is done
 if (place_meeting(x,y,obj_end_entrance)) {
 	room_goto(end_screen);

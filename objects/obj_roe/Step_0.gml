@@ -1,6 +1,6 @@
 var distance = point_distance(x,y,obj_tuna.x,obj_tuna.y);
         
-if (keyboard_check_pressed(vk_space) && distance <= 50 ) {
+if (keyboard_check_pressed(ord("E")) && distance <= 50 ) {
     interacted_with = true;
     audio_play_sound(snd_eat,1,false);
     

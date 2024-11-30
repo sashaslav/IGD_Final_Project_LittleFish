@@ -43,10 +43,10 @@ if (showing_dialogue == true) {
 	draw_set_color(c_white);
 	draw_set_font(fnt_dialog_txt);
 	draw_set_halign(fa_left);
-	draw_text_ext(text_x + 65,text_y + 50, current_dialogue.message, 30, display_get_gui_width() - 192);
+	draw_text_ext(text_x + 65,text_y + 50, current_dialogue.message, 50, 1000);
 	
 
-	draw_text_ext(text_x + 650,text_y + 200, "Press ESC to continue", 16, display_get_gui_width() - 192);
+	draw_text_ext(text_x + 590,text_y + 200, "Press RETURN to continue", 16, display_get_gui_width() - 192);
 }
 
 //draw_set_alpha(1);

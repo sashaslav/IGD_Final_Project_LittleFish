@@ -5,7 +5,7 @@
 dialogue = new dialogue_func();
 
 //determines which key to press to advance thru dialogue
-key_next = vk_backspace;
+key_next = vk_enter;
 
 //bool to tell if dialogue is showing
 showing_dialogue = false;
