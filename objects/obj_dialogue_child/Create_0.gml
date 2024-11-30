@@ -13,12 +13,17 @@ if (global.has_happened == false) {
 		dialogue.add(spr_bass_neutral, "Great! Come back here when you're all done!");
 		dialogue.add(spr_bass_neutral, "And don't forget to press SPACE to eat the roe!");
 		global.has_happened = true;
+	} else if (global.has_happened == true && global.eaten == false) {
+		//show_debug_message("im in the else if");
+		dialogue.add(spr_bass_neutral, "Well, what are you waiting for? Go and eat all that roe!");
 	}
 
 //conv 2
-if (global.has_happened == true && global.eaten == false) {
-	dialogue.add(spr_bass_neutral, "Well, what are you waiting for? Go and eat all that roe!");
-}
+
+
+/*
+if you've done conv 1 and you havent finished the quest yet, and you're out of range?
+*/
 
 //conv 3
 if (global.has_happened == true && global.eaten == true) {
