@@ -14,3 +14,11 @@ if (global.talked_to == true && distance > 100) {
 	}	
 }
 
+
+
+
+
+
+
+
+
