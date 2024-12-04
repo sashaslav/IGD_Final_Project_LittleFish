@@ -24,3 +24,4 @@ npc_touching = noone;
 
 
 
+

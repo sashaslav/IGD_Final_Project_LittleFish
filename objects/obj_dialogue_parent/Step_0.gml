@@ -1,13 +1,15 @@
 
 //checks for whether the player is touching the npc
 //acts as switch to go get new dialogue from the system
-if (npc_touching != noone) {
-	
+
+if (global.npc_touching != noone) {
+	show_debug_message(dialogue.count());
 	//checks if more dialogue is being shown on the screen
-	//and if the dialogue count is greater than zero
+	//and if the dialogue count is less than/equal to zero
 	//if these are true, destroys the instance + does early return
 	if(more_dialogue == false) {
 		if(dialogue.count() <= 0) {
+			global.npc_touching = noone;
 			instance_destroy();
 			return;
 		}
@@ -20,7 +22,6 @@ if (npc_touching != noone) {
 	//checks which key has been released,
 	//if it has, the showing_dialogue var is reset, and it will re-trigger the above code
 	if(keyboard_check_released(key_next)) {
-		show_debug_message("touch");
 		more_dialogue = false;
 	}
 }
