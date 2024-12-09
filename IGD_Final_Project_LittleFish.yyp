@@ -25,6 +25,7 @@
     {"id":{"name":"obj_dialogue_child","path":"objects/obj_dialogue_child/obj_dialogue_child.yy",},"order":7,},
     {"id":{"name":"fnt_start_txt","path":"fonts/fnt_start_txt/fnt_start_txt.yy",},"order":0,},
     {"id":{"name":"spr_exit","path":"sprites/spr_exit/spr_exit.yy",},"order":11,},
+    {"id":{"name":"spr_rock","path":"sprites/spr_rock/spr_rock.yy",},"order":21,},
     {"id":{"name":"snd_end_screen","path":"sounds/snd_end_screen/snd_end_screen.yy",},"order":4,},
     {"id":{"name":"end_screen","path":"rooms/end_screen/end_screen.yy",},"order":3,},
     {"id":{"name":"obj_data_carrier","path":"objects/obj_data_carrier/obj_data_carrier.yy",},"order":17,},
