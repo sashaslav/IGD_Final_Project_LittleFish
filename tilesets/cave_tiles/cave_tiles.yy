@@ -115,7 +115,7 @@
     "SerialiseWidth": 29,
     "SerialiseHeight": 34,
     "TileCompressedData": [
-      -835,
+      -805,
       0,
       3,
       20,
@@ -133,7 +133,7 @@
       13,
       15,
       19,
-      -90,
+      -120,
       0,
     ],
   },
