@@ -5,6 +5,7 @@
   "resources": [
     {"id":{"name":"spr_tuna_up","path":"sprites/spr_tuna_up/spr_tuna_up.yy",},"order":3,},
     {"id":{"name":"spr_main_tiles","path":"sprites/spr_main_tiles/spr_main_tiles.yy",},"order":6,},
+    {"id":{"name":"tutorial_scrn","path":"rooms/tutorial_scrn/tutorial_scrn.yy",},"order":4,},
     {"id":{"name":"main_tiles","path":"tilesets/main_tiles/main_tiles.yy",},"order":0,},
     {"id":{"name":"spr_text_box","path":"sprites/spr_text_box/spr_text_box.yy",},"order":8,},
     {"id":{"name":"obj_dialogue_parent","path":"objects/obj_dialogue_parent/obj_dialogue_parent.yy",},"order":6,},
@@ -35,6 +36,7 @@
     {"id":{"name":"obj_entrance","path":"objects/obj_entrance/obj_entrance.yy",},"order":5,},
     {"id":{"name":"obj_roe_small","path":"objects/obj_roe_small/obj_roe_small.yy",},"order":9,},
     {"id":{"name":"spr_bass","path":"sprites/spr_bass/spr_bass.yy",},"order":5,},
+    {"id":{"name":"obj_tutorial_scrn","path":"objects/obj_tutorial_scrn/obj_tutorial_scrn.yy",},"order":20,},
     {"id":{"name":"dialogue_func","path":"scripts/dialogue_func/dialogue_func.yy",},"order":0,},
     {"id":{"name":"conv_1","path":"scripts/conv_1/conv_1.yy",},"order":1,},
     {"id":{"name":"spr_background","path":"sprites/spr_background/spr_background.yy",},"order":1,},
@@ -84,6 +86,7 @@
     {"roomId":{"name":"main_area","path":"rooms/main_area/main_area.yy",},},
     {"roomId":{"name":"underwater_cave","path":"rooms/underwater_cave/underwater_cave.yy",},},
     {"roomId":{"name":"end_screen","path":"rooms/end_screen/end_screen.yy",},},
+    {"roomId":{"name":"tutorial_scrn","path":"rooms/tutorial_scrn/tutorial_scrn.yy",},},
   ],
   "Folders": [
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Animation Curves","folderPath":"folders/Animation Curves.yy","order":12,},

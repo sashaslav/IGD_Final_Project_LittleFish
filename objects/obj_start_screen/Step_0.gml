@@ -4,7 +4,7 @@ if !audio_is_playing(snd_start_screen) {
 
 //if the player presses the spacebar, they will advance to the next room
 if (keyboard_check(vk_space)) {
-	room_goto(main_area);
+	room_goto(tutorial_scrn);
 	audio_stop_sound(snd_start_screen);
 }
 

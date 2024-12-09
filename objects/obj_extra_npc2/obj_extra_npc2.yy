@@ -3,8 +3,8 @@
   "resourceVersion": "1.0",
   "name": "obj_extra_npc2",
   "spriteId": {
-    "name": "spr_npc3",
-    "path": "sprites/spr_npc3/spr_npc3.yy",
+    "name": "spr_salmon",
+    "path": "sprites/spr_salmon/spr_salmon.yy",
   },
   "solid": false,
   "visible": true,

@@ -1,11 +1,8 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "obj_extra_npc1",
-  "spriteId": {
-    "name": "spr_salmon",
-    "path": "sprites/spr_salmon/spr_salmon.yy",
-  },
+  "name": "obj_tutorial_scrn",
+  "spriteId": null,
   "solid": false,
   "visible": true,
   "managed": true,
@@ -26,6 +23,7 @@
   "physicsShapePoints": [],
   "eventList": [
     {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","isDnD":false,"eventNum":0,"eventType":3,"collisionObjectId":null,},
+    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","isDnD":false,"eventNum":0,"eventType":8,"collisionObjectId":null,},
   ],
   "properties": [],
   "overriddenProperties": [],
